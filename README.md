@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Suarez-99
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Esteban Suarez
 
 Soy Esteban, un apasionado Frontend Developer freelance con una profunda dedicación por crear experiencias de usuario excepcionales. Me encanta diseñar interfaces atractivas y funcionales, cuidando cada detalle para asegurar una navegación intuitiva y fluida. Como freelancer, siempre busco innovar y perfeccionar la apariencia y usabilidad de cada proyecto en el que trabajo.
 
