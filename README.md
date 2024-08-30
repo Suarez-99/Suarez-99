@@ -10,7 +10,7 @@ Soy Esteban, un apasionado Frontend Developer freelance con una profunda dedicac
 -🚀 Apasionado por el aprendizaje continuo: Cada proyecto es una oportunidad para crecer y mejorar mis habilidades. Estoy constantemente buscando nuevas formas de optimizar el rendimiento y la experiencia del usuario en mis aplicaciones.
 
 ## Tecnologias
-- 🛠️ Desarrollo Backend: .NET, MongoDB, PostgreSQL.
+- 🛠️ Desarrollo Backend: .NET, Oracle, PostgreSQL.
 
 - 🎨 Desarrollo Frontend: HTML, CSS, JavaScript, React.js, Next.js, Angular.
 
