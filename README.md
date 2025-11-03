@@ -1,21 +1,32 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Esteban Suarez
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Esteban Suárez
 
-Soy Esteban, un apasionado Frontend Developer freelance con una profunda dedicación por crear experiencias de usuario excepcionales. Me encanta diseñar interfaces atractivas y funcionales, cuidando cada detalle para asegurar una navegación intuitiva y fluida. Como freelancer, siempre busco innovar y perfeccionar la apariencia y usabilidad de cada proyecto en el que trabajo.
+¡Hola! Soy **Esteban Suárez**, un apasionado **Desarrollador Web Backend y Full Stack** con experiencia en proyectos reales y un enfoque en crear soluciones eficientes, escalables y de alta calidad. Me especializo en **PHP, Node.js, SQL/NoSQL**, y desarrollo de aplicaciones web modernas, con atención al detalle y rendimiento.
 
 ## Sobre mí
--💻 Enamorado del código: Disfruto resolviendo problemas complejos y convirtiendo ideas en realidad a través del poder de la programación.
+- 💻 **Apasionado por la programación:** Disfruto resolviendo problemas complejos y transformando ideas en aplicaciones funcionales y escalables.  
+- 🌐 **Explorador de tecnologías:** Siempre aprendiendo y probando nuevas herramientas para mantenerme actualizado. Mis stacks incluyen **HTML5, CSS3, JavaScript, React.js, Node.js, PHP, SQL/NoSQL**.  
+- 🚀 **Aprendizaje continuo:** Cada proyecto es una oportunidad para crecer y mejorar mis habilidades técnicas y de trabajo en equipo.  
 
--🌐 Explorador de tecnologías: Siempre estoy aprendiendo y experimentando con las últimas herramientas y tecnologías para mantenerme al tanto de las tendencias del desarrollo web. Mi conjunto de herramientas incluye HTML5, CSS3, JavaScript (ES6+), React.js, y Vue.js, entre otros.
+## Experiencia Destacada
+- **Programador Backend – Legajos Online** (2025 – Actualidad)  
+  Desarrollo y optimización de sistemas internos con PHP y MySQL, asegurando eficiencia y escalabilidad.  
+- **Programador Backend – KIÚ Software Integration** (Julio 2024 – Septiembre 2024)  
+  Gestión de bases de datos PL/SQL, triggers y transacciones. Recomendado por mi tutora, Geraldine Cárdenas.  
 
--🚀 Apasionado por el aprendizaje continuo: Cada proyecto es una oportunidad para crecer y mejorar mis habilidades. Estoy constantemente buscando nuevas formas de optimizar el rendimiento y la experiencia del usuario en mis aplicaciones.
+## Proyectos Destacados
+- **[Juego de Quiz](https://suarez-99.github.io/Juego-de-Quiz/):** Juego de preguntas y respuestas con puntuación en tiempo real, desarrollado con HTML, CSS y JavaScript.  
+- **[Pasapalabra](https://suarez-99.github.io/Pasapalabra/):** Versión web del clásico juego, con animaciones y diseño responsivo.  
+- **[Interfaz Spotify](https://suarez-99.github.io/Spotify/):** Clon visual de la página de inicio de Spotify, construido con HTML, CSS y JavaScript.  
 
-## Tecnologias
-- 🛠️ Desarrollo Backend: .NET, Oracle, PostgreSQL.
+## Tecnologías y Herramientas
+- 🛠️ **Backend:** PHP 7.3, Node.js, MySQL, MongoDB, PL/SQL  
+- 🎨 **Frontend:** HTML5, CSS3, JavaScript, React.js  
+- 🔧 **Herramientas:** Git, GitHub, VS Code  
 
-- 🎨 Desarrollo Frontend: HTML, CSS, JavaScript, React.js, Next.js, Angular.
+## Contacto
+- 📧 estebansuarez.programador@gmail.com  
+- 📞 3516864073  
+- 🌐 [GitHub](https://github.com/Suarez-99)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/esteban-su%C3%A1rez-4b5952231/)  
 
-- 🔧 Herramientas y Tecnologías: Git, GitHub, VS Code.
-## ¡Echa un vistazo a mis repositorios!
-¡Estoy emocionado de compartir contigo los proyectos en los que he estado trabajando! Desde robustas aplicaciones web hasta fascinantes experimentos interactivos, encontrarás una variedad de creaciones que reflejan mi pasión por el desarrollo frontend. ¡No dudes en explorar y dejarme tus comentarios! Tu retroalimentación es invaluable para mí.
-
-
+> Estoy siempre abierto a **colaboraciones, oportunidades de aprendizaje y proyectos desafiantes**. ¡No dudes en contactarme!
